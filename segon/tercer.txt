@@ -1,2 +1,5 @@
 aquest és el contingut del tercer.
 nou canvi
+aquest és el contingut del tercer.ç
+una nova linia
+
