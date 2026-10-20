@@ -1,1 +1,3 @@
-aquest és el contingut del tercer.
+aquest és el contingut del tercer.ç
+una nova linia
+
